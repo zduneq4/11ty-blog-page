@@ -1,0 +1,44 @@
+---
+  title: Krystian Wawrzyniak blog
+  layout: 'base.njk'
+
+---
+  
+    
+
+      
+<section class="hero">
+  <div class="container flow">
+      <div class="hero__content flow">
+        <h1 class="section-title">Witaj na moim blogu!</h1>
+        <p>Cześć, chciałbym Cię bardzo serdecznie powitać na mojej stronie! Mam 20 lat, mieszkam, trenuję i rozwijam się osobiście i duchowo w Holandii. Bez względu na wynik zawsze żyję tu i teraz. Przeżywam kolejne dni z pokorą, pasją, dyscypliną i odwagą podnosząc sobie poprzeczkę każdego dnia. Chcę by kiedyś było o mnie głośno, jako człowiek, który mimo przeciwności losu stał się tym kim chciał.</p>
+        <p>Moim priorytetem jest jednak zmiana świata na lepsze. Mam nadzieję, że zdołam pomóc Tobie w odnalezieniu swojej prawdziwej pasji o swojego sposobu na życie. Zapraszam!</p>
+        <div class="flex-group">
+          <a href="#featured-articles" class="btn btn--primary">Wyróżnione wpisy</a>
+          <a href="./blog" class="btn btn--neutral">Najnowsze wpisy</a>
+        </div>
+      </div>
+      <div>
+        <img src="./assets/krystian.jpg" alt="" class="hero__image">
+      </div>
+  </div>
+</section>
+
+<section id="featured-articles" class="featured-articles">
+  <div class="container flow">
+    <h2 class="section-title text-center ">Wyróżnione wpisy</h2>
+    <p class="text-center">Poniżej znajdują się przykładowe artykuły. Po więcej zapraszam na mojego bloga!</p>
+    <ul role="list" class="articles__list flow">
+
+  {%- for post in collections.featured  | reverse-%}
+
+    {%include 'article-snippet.njk'%}
+
+  {%- endfor -%}
+
+  </ul>
+  </div>
+</section> 
+    
+   
+ 

@@ -12,11 +12,7 @@ image: /assets/blog/earth-ocean-rock-sunset-long-exposure-4k-5k.jpg
 ---
 MEDYTACJA
 
-„To dobre uczucie. To tak, jakbyś musiała wyłączyć komputer...
-
-Czasami kiedy świat szaleje, po prostu go wyłączasz, a kiedy go
-
-włączasz, znów jest w porządku. Tym jest dla mnie medytacja”
+„To dobre uczucie. To tak, jakbyś musiała wyłączyć komputer... Czasami kiedy świat szaleje, po prostu go wyłączasz, a kiedy go włączasz, znów jest w porządku. Tym jest dla mnie medytacja”
 
 \- Ellen DeGeneres
 

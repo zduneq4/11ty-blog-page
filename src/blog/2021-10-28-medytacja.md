@@ -6,7 +6,8 @@ description: „To dobre uczucie. To tak, jakbyś musiała wyłączyć komputer.
 author: Krystian Wawrzyniak
 date: 2021-10-28T16:18:03.887Z
 tags:
-  - post.featured
+  - post
+  - featured
 image: /assets/blog/245710536_305799831081056_4071331320196077770_n.jpg
 imageAlt: medytacja
 ---

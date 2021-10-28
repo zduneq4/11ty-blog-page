@@ -16,6 +16,8 @@ MEDYTACJA
 
 \- Ellen DeGeneres
 
+<br> <br>
+
 Medytacja… Słyszałeś to pojęcie już pewnie wiele razy i stawiam, że nawet nie spróbowałeś jej praktykować dłużej niż 5 minut, bo w sumie po co, szkoda czasu. Jasne, że szkoda czasu na takie rzeczy lepiej obejrzeć Friza, netflixa czy jakiś film pornograficzny zamiast zapanować nad swoim umysłem. Nie ma problemu. Zadaj sobie pytanie czy chcesz tak spędzać wolne chwile? Jeżeli nie, to przejdźmy dalej. Medytacja uczy nas kontrolować emocje jak np. Stres,zlosc,wstyd,zal,wina, pomaga nawet w stanach depresyjnych. 
 
 Uważasz, że nieźle radzisz sobie w życiu nie stosując medytacji? Dlaczego nie chcesz być jeszcze lepszy? Zadowalasz się tym co masz, to błąd! Nigdy tak nie rób, bądź nieustępliwy. Jak powiedział to kiedyś Tim Grover w książce pt. Nieustępliwy „Wymiatacz nigdy nie ogłasza sukcesu, bo zawsze ma coś jeszcze do zrobienia”. Nigdy nie okazuj sam przed sobą, że okej, starczy, jest fajnie, nic mi nie brakuje, ZAWSZE możesz zrobić jeszcze więcej, poprawić swoje zarobki, zapanować nad emocjami, napisać jedna książkę więcej, zwiedzić jeden kraj więcej, nauczyć się jednego języka więcej… 

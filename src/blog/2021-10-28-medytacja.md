@@ -8,7 +8,7 @@ date: 2021-10-28T16:18:03.887Z
 tags:
   - post
   - featured
-image: /assets/blog/245710536_305799831081056_4071331320196077770_n.jpg
+image: /assets/blog/beautiful-ocean-sky-sunset-beach-with-reflection-on-body-of-water-4k-nature.jpg
 imageAlt: medytacja
 ---
 <!--StartFragment-->
